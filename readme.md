@@ -12,7 +12,7 @@ Hello, I am full stack developer, working on multiple open source projects, for 
 
 ## Contact
 
-<a href="https://www.instagram.com/MartoOo/">![Instagram](https://img.shields.io/badge/Martojordi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LachlanDev"> ![Twitter](https://img.shields.io/badge/Martojordi__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> ![Discord](https://img.shields.io/badge/MartoOo%233038-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://www.instagram.com/Martojordi_/">![Instagram](https://img.shields.io/badge/Martojordi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LachlanDev"> ![Twitter](https://img.shields.io/badge/Martojordi__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> ![Discord](https://img.shields.io/badge/MartoOo%233038-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
 
